@@ -1,0 +1,103 @@
+{
+    "agent_information": {
+        "id": "001",
+        "agent_code": "AGT1001",
+        "first_name": "Jo",
+        "last_name": "Butt",
+        "email": "jo.butt@example.com",
+        "phone": "071-8121",
+        "team_id": "T001"
+    },
+    "products": ["PR001", "PR002"]
+}
+
+{
+    "agent_information": {
+        "id": "002",
+        "agent_code": "AGT1002",
+        "first_name": "Jane",
+        "last_name": "Smith",
+        "email": "jane.smith@example.com",
+        "phone": "071-8122",
+        "team_id": "T001"
+    },
+    "products": ["PR001", "PR003"]
+}
+
+{
+    "agent_information": {
+        "id": "003",
+        "agent_code": "AGT1003",
+        "first_name": "Michael",
+        "last_name": "Gill",
+        "email": "michael.gill@example.com",
+        "phone": "071-8123",
+        "team_id": "T001"
+    },
+    "products": ["PR004"]
+}
+
+{
+    "agent_information": {
+        "id": "004",
+        "agent_code": "AGT1004",
+        "first_name": "Emily",
+        "last_name": "Brown",
+        "email": "emily.brown@example.com",
+        "phone": "071-8124",
+        "team_id": "T002"
+    },
+    "products": ["PR002", "PR003"]
+}
+
+{
+    "agent_information": {
+        "id": "005",
+        "agent_code": "AGT1005",
+        "first_name": "Chris",
+        "last_name": "Johnson",
+        "email": "chris.johnson@example.com",
+        "phone": "071-8125",
+        "team_id": "T002"
+    },
+    "products": ["PR001"]
+}
+
+{
+    "agent_information": {
+        "id": "006",
+        "agent_code": "AGT1006",
+        "first_name": "Olivia",
+        "last_name": "Taylor",
+        "email": "olivia.taylor@example.com",
+        "phone": "071-8126",
+        "team_id": "T002"
+    },
+    "products": ["PR003", "PR004"]
+}
+
+{
+    "agent_information": {
+        "id": "007",
+        "agent_code": "AGT1007",
+        "first_name": "David",
+        "last_name": "Lee",
+        "email": "david.lee@example.com",
+        "phone": "071-8127",
+        "team_id": "T001"
+    },
+    "products": ["PR002"]
+}
+
+{
+    "agent_information": {
+        "id": "008",
+        "agent_code": "AGT1008",
+        "first_name": "Sophia",
+        "last_name": "Martinez",
+        "email": "sophia.martinez@example.com",
+        "phone": "071-8128",
+        "team_id": "T002"
+    },
+    "products": ["PR001", "PR004"]
+}

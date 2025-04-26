@@ -1,0 +1,79 @@
+{
+  "sale_id": "S001",
+  "sale_date": "2025-04-01",
+  "id": "A001",
+  "product_id": "P001",
+  "amount": 30000
+}
+
+{
+  "sale_id": "S002",
+  "sale_date": "2025-04-02",
+  "id": "A002",
+  "product_id": "P001",
+  "amount": 40000
+}
+
+{
+  "sale_id": "S003",
+  "sale_date": "2025-04-03",
+  "id": "A005",
+  "product_id": "P001",
+  "amount": 30000
+}
+
+{
+  "sale_id": "S004",
+  "sale_date": "2025-04-01",
+  "id": "A004",
+  "product_id": "P002",
+  "amount": 15000
+}
+
+{
+  "sale_id": "S005",
+  "sale_date": "2025-04-02",
+  "id": "A007",
+  "product_id": "P002",
+  "amount": 10000
+}
+
+{
+  "sale_id": "S006",
+  "sale_date": "2025-04-01",
+  "id": "A002",
+  "product_id": "P003",
+  "amount": 60000
+}
+
+{
+  "sale_id": "S007",
+  "sale_date": "2025-04-02",
+  "id": "A004",
+  "product_id": "P003",
+  "amount": 50000
+}
+
+{
+  "sale_id": "S008",
+  "sale_date": "2025-04-03",
+  "id": "A006",
+  "product_id": "P003",
+  "amount": 40000
+}
+
+{
+  "sale_id": "S009",
+  "sale_date": "2025-04-03",
+  "id": "A003",
+  "product_id": "P004",
+  "amount": 20000
+}
+
+{
+  "sale_id": "S010",
+  "sale_date": "2025-04-04",
+  "id": "A008",
+  "product_id": "P004",
+  "amount": 30000
+}
