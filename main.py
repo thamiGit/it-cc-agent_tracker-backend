@@ -19,7 +19,7 @@ app.register_blueprint(notification_bp)
 if __name__ == '__main__':
     # Schedule the aggregator_service job daily at 11:15 AM
     scheduler = BackgroundScheduler()
-    scheduler.add_job(run_aggregator_service, 'cron', hour=7, minute=0, timezone=timezone('Asia/Colombo'), max_instances=1, id='daily_aggregation_job')
+    scheduler.add_job(run_aggregator_service, 'cron', hour=21, minute=40, timezone=timezone('Asia/Colombo'), max_instances=1, id='daily_aggregation_job')
     scheduler.start()
 
     # Start Flask web server
